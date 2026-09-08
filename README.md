@@ -1,56 +1,37 @@
 <div align="center">
 
-<img src="YOUR_HASURA_LOGO_URL" width="150" alt="Hasura Logo">
+<img src="./assets/hasura-banner.png" width="100%" alt="Hasura - Learn Build Deploy">
 
 <br><br>
 
-<img src="YOUR_HASURA_HERO_ANIMATION_URL" width="100%" alt="Hasura">
-
-<br><br>
-
-# HASURA
-
-### DREAM · BUILD · GROW
-
-**Technology · Design · Development · Creativity**
-
-<br>
+### TECHNOLOGY · DESIGN · DEVELOPMENT · CREATIVITY
 
 📍 **Rajahmundry, Andhra Pradesh, India**
 
-<br><br>
+<br>
 
 <a href="YOUR_WEBSITE_URL">
-<img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+<img src="https://img.shields.io/badge/Website-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 <a href="#-start-a-project">
-<img src="https://img.shields.io/badge/START_A_PROJECT-111111?style=for-the-badge&logo=rocket&logoColor=white" alt="Start a Project">
+<img src="https://img.shields.io/badge/Start_a_Project-7C3AED?style=for-the-badge&logo=rocket&logoColor=white">
 </a>
 
 <a href="mailto:hasura00@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact">
+<img src="https://img.shields.io/badge/Contact-111827?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/TECHNOLOGY-000000?style=flat-square">
-<img src="https://img.shields.io/badge/DESIGN-000000?style=flat-square">
-<img src="https://img.shields.io/badge/CREATIVITY-000000?style=flat-square">
-<img src="https://img.shields.io/badge/INNOVATION-000000?style=flat-square">
-
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
-# WE BUILD WHAT'S NEXT.
+## ✦ WE BUILD WHAT'S NEXT.
 
-### Ideas are everywhere.
-### Turning them into reality is what we do.
+**Ideas are everywhere.  
+We turn them into digital experiences.**
 
 </div>
 
@@ -58,11 +39,12 @@
 
 <table align="center">
 <tr>
+
 <td align="center" width="25%">
 
-### 01
+## 💡
 
-## THINK
+### THINK
 
 Understand the idea.
 
@@ -70,9 +52,9 @@ Understand the idea.
 
 <td align="center" width="25%">
 
-### 02
+## 🎨
 
-## DESIGN
+### DESIGN
 
 Shape the experience.
 
@@ -80,9 +62,9 @@ Shape the experience.
 
 <td align="center" width="25%">
 
-### 03
+## 💻
 
-## BUILD
+### BUILD
 
 Make it real.
 
@@ -90,50 +72,29 @@ Make it real.
 
 <td align="center" width="25%">
 
-### 04
+## 🚀
 
-## GROW
+### GROW
 
 Make it better.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# ✦ NAVIGATION
-
-<div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| [About](#-about-hasura) | [Services](#-our-services) | [Technology](#-technology) |
-| [Process](#-our-process) | [Projects](#-selected-work) | [Clients](#-clients) |
-| [Creative](#-creative-studio) | [Team](#-our-team) | [Values](#-our-values) |
-| [GitHub](#-github) | [FAQ](#-faq) | [Contact](#-contact) |
-
-</div>
-
----
-
 # ✦ ABOUT HASURA
 
-<div align="center">
+**Hasura** is a technology and creative studio based in
+**Rajahmundry, Andhra Pradesh, India**.
 
-<img src="YOUR_ABOUT_ANIMATION_URL" width="850" alt="About Hasura">
+We combine technology, design and creativity to transform ideas
+into practical digital experiences.
 
-</div>
-
-Hasura is a **technology and creative studio based in Rajahmundry,
-Andhra Pradesh, India**.
-
-We combine software engineering, product development, UI/UX,
-design and creative services to transform ideas into meaningful
-digital experiences.
-
-Our approach brings different disciplines together instead of
-treating technology and creativity as separate worlds.
+Our work spans across software development, applications,
+websites, UI/UX, creative media and digital solutions.
 
 <div align="center">
 
@@ -141,77 +102,334 @@ treating technology and creativity as separate worlds.
 
 </div>
 
-We work across:
-
-`APPLICATIONS`
-
-`WEBSITES`
-
-`SOFTWARE`
-
-`PROJECTS`
-
-`UI / UX`
-
-`DESIGN`
-
-`VIDEO`
-
-`MUSIC`
-
-`EVENTS`
-
-`CRAFTS`
-
-`DIGITAL EXPERIENCES`
-
 > **We don't just build products.  
 > We build experiences around ideas.**
 
 ---
 
-# ✦ WHAT MAKES HASURA DIFFERENT?
+# ✦ WHAT WE DO
 
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td align="center" width="33%">
+
+# 📱
+
+### APP DEVELOPMENT
+
+Mobile applications designed for usability,
+performance and real-world requirements.
+
+</td>
+
+<td align="center" width="33%">
+
+# 🌐
+
+### WEB DEVELOPMENT
+
+Modern websites and web applications
+built for today's digital world.
+
+</td>
+
+<td align="center" width="33%">
+
+# 💻
+
+### SOFTWARE
+
+Custom software, platforms and
+practical digital solutions.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+# 🎨
+
+### UI / UX
+
+Clean interfaces, design systems,
+prototypes and visual experiences.
+
+</td>
+
+<td align="center" width="33%">
+
+# 🧩
+
+### PROJECT DEVELOPMENT
+
+From concept to working product,
+we build complete project solutions.
+
+</td>
+
+<td align="center" width="33%">
+
+# ☁️
+
+### CLOUD & DEVOPS
+
+Deployment, infrastructure,
+automation and digital environments.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+# 🤖
+
+### GEN AI
+
+Exploring intelligent applications,
+automation and AI-powered experiences.
+
+</td>
+
+<td align="center" width="33%">
+
+# 🎬
+
+### MEDIA & VIDEO
+
+Reels, promotional videos,
+event media and creative content.
+
+</td>
+
+<td align="center" width="33%">
+
+# 🎵
+
+### MUSIC & AUDIO
+
+Custom songs, audio content
+and creative sound experiences.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+# 🎉
+
+### EVENTS
+
+Creative technology, media,
+design and digital event solutions.
+
+</td>
+
+<td align="center" width="33%">
+
+# 🎁
+
+### CREATIVE CRAFTS
+
+Custom creative work for events,
+celebrations and special occasions.
+
+</td>
+
+<td align="center" width="33%">
+
+# 📊
+
+### DATA & ANALYTICS
+
+Technology and analytics-oriented
+solutions for digital environments.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ✦ TECHNOLOGY
+
+<div align="center">
+
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+
+<br><br>
+
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,java" />
+
+<br><br>
+
+### DATABASE
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+<br><br>
+
+### CLOUD · DEVOPS · TOOLS
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+
+<br><br>
+
+### DESIGN
+
+<img src="https://skillicons.dev/icons?i=figma" />
+
+</div>
+
+---
+
+# ✦ OUR PROCESS
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center">
+
+### 01
+
+## 💡
+
+**IDEA**
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+### 02
+
+## 🔍
+
+**DISCOVER**
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+### 03
+
+## 🎨
+
+**DESIGN**
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+### 04
+
+## 💻
+
+**BUILD**
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+### 05
+
+## 🧪
+
+**TEST**
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+### 06
+
+## 🚀
+
+**DEPLOY**
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# ✦ WHY HASURA?
+
+<table>
+<tr>
+
+<td align="center" width="25%">
 
 ## 🧠
 
 ### THINK
 
-We understand the problem before choosing the solution.
+We understand the problem
+before choosing the solution.
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ## 🎨
 
-### DESIGN
+### CREATE
 
-We make technology easier and more enjoyable to experience.
+We combine technology
+with creativity.
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ## ⚙️
 
-### ENGINEER
+### BUILD
 
-We turn concepts into functional digital products.
+We focus on practical,
+usable solutions.
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ## 🚀
 
 ### DELIVER
 
-We focus on practical results, not just ideas.
+We turn ideas into
+real experiences.
 
 </td>
 
@@ -220,55 +438,40 @@ We focus on practical results, not just ideas.
 
 ---
 
-# ✦ OUR SERVICES
+# ✦ SELECTED WORK
 
 <div align="center">
 
-<img src="YOUR_SERVICES_ANIMATION_URL" width="900" alt="Hasura Services">
+### 🚀 BUILT WITH PURPOSE.
 
 </div>
-
-<br>
 
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="50%">
 
-# 📱
+### 📱 Project One
 
-## APP DEVELOPMENT
+Short description of your project
+and the problem it solves.
 
-We create mobile applications focused on usability,
-performance and real-world requirements.
+**Stack:** React · Node.js · PostgreSQL
 
-**Mobile UI · APIs · Authentication · Databases · Integrations**
-
-</td>
-
-<td width="33%" align="center">
-
-# 🌐
-
-## WEB DEVELOPMENT
-
-Modern websites and web applications designed for
-performance, responsiveness and usability.
-
-**Websites · Dashboards · Portals · Platforms · Web Apps**
+[View Project →](YOUR_PROJECT_URL)
 
 </td>
 
-<td width="33%" align="center">
+<td width="50%">
 
-# 💻
+### 🌐 Project Two
 
-## SOFTWARE DEVELOPMENT
+Short description of your project
+and what makes it useful.
 
-Custom software solutions designed around specific
-business and project requirements.
+**Stack:** Next.js · Python · MongoDB
 
-**Business Software · Automation · Internal Tools · Platforms**
+[View Project →](YOUR_PROJECT_URL)
 
 </td>
 
@@ -276,126 +479,84 @@ business and project requirements.
 
 <tr>
 
-<td width="33%" align="center">
+<td width="50%">
 
-# 🎨
+### 🤖 Project Three
 
-## UI / UX DESIGN
+AI, automation or intelligent
+application project.
 
-We turn complex requirements into clear,
-consistent and user-friendly interfaces.
+**Stack:** Python · AI · APIs
 
-**Research · Wireframes · Prototypes · Design Systems · UI**
-
-</td>
-
-<td width="33%" align="center">
-
-# 🧩
-
-## PROJECT DEVELOPMENT
-
-From academic concepts to complete working systems,
-we help transform requirements into usable products.
-
-**Planning · Development · Documentation · Deployment**
+[View Project →](YOUR_PROJECT_URL)
 
 </td>
 
-<td width="33%" align="center">
+<td width="50%">
 
-# ☁️
+### 🎨 Project Four
 
-## CLOUD & DIGITAL
+Creative technology or
+design-focused project.
 
-Modern infrastructure and digital solutions designed
-to support evolving products.
+**Stack:** Figma · React · Media
 
-**Cloud · APIs · Deployment · Automation · Integration**
+[View Project →](YOUR_PROJECT_URL)
 
 </td>
 
 </tr>
 
-<tr>
-
-<td width="33%" align="center">
-
-# 🎬
-
-## VIDEO EDITING
-
-Creative video production for events, campaigns,
-social media and digital experiences.
-
-**Events · Reels · Promotions · Social Content**
-
-</td>
-
-<td width="33%" align="center">
-
-# 🎵
-
-## MUSIC CREATION
-
-Creative audio and custom music experiences
-for projects and events.
-
-**Songs · Audio · Event Music · Creative Content**
-
-</td>
-
-<td width="33%" align="center">
-
-# 🎉
-
-## EVENT SOLUTIONS
-
-Technology and creativity combined for memorable
-events and experiences.
-
-**Media · Design · Video · Music · Digital Experiences**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" align="center">
-
-# 🎁
-
-## CREATIVE CRAFTS
-
-Creative physical work for events, celebrations
-and customized experiences.
-
-</td>
-
-<td width="33%" align="center">
-
-# 📊
-
-## SAP
-
-SAP-oriented technology and project solutions
-based on specific requirements.
-
-</td>
-
-<td width="33%" align="center">
-
-# 📈
-
-## SAS
-
-SAS-oriented data and analytics solutions
-based on project requirements.
-
-</td>
-
-</tr>
 </table>
 
 ---
+
+# ✦ OUR VALUES
+
+<div align="center">
+
+| 💡 Innovation | 🎯 Purpose | 🎨 Creativity | 🚀 Growth |
+|:---:|:---:|:---:|:---:|
+| Think differently | Solve real problems | Make it memorable | Keep improving |
+
+</div>
+
+---
+
+# ✦ START A PROJECT
+
+<div align="center">
+
+### HAVE AN IDEA?
+
+**Let's turn it into something real.**
+
+<br>
+
+<a href="mailto:hasura00@gmail.com">
+<img src="https://img.shields.io/badge/💬_Let's_Talk-7C3AED?style=for-the-badge" alt="Let's Talk">
+</a>
+
+<br><br>
+
+📍 **Rajahmundry · Andhra Pradesh · India**
+
+<br><br>
+
+### HASURA
+
+**Learn · Build · Deploy**
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>
+
+© 2026 **Hasura** · Technology · Design · Creativity
+
+</sub>
+
+</div>
