@@ -1,10 +1,5 @@
 <div align="center">
-
-<img src="YOUR_HASURA_LOGO_URL" width="150" alt="Hasura Logo">
-
-<br><br>
-
-<img src="YOUR_HASURA_HERO_ANIMATION_URL" width="100%" alt="Hasura">
+<img src="banner.jpeg" width="100%" alt="Hasura">
 
 <br><br>
 
