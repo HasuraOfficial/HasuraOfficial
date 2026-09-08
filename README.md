@@ -1,562 +1,135 @@
-<div align="center">
+<!-- HERO -->
+<p align="center">
+  <img src="./assets/hasura-banner.png" width="100%" alt="Hasura">
+</p>
 
-<img src="./assets/hasura-banner.png" width="100%" alt="Hasura - Learn Build Deploy">
+<h1 align="center">
+  HASURA OFFICIAL
+</h1>
 
-<br><br>
+<p align="center">
+  <b>TECHNOLOGY · DESIGN · DEVELOPMENT · CREATIVITY</b>
+</p>
 
-### TECHNOLOGY · DESIGN · DEVELOPMENT · CREATIVITY
+<p align="center">
+  📍 Rajahmundry, Andhra Pradesh, India
+</p>
 
-📍 **Rajahmundry, Andhra Pradesh, India**
-
-<br>
-
-<a href="YOUR_WEBSITE_URL">
-<img src="https://img.shields.io/badge/Website-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-
-<a href="#-start-a-project">
-<img src="https://img.shields.io/badge/Start_a_Project-7C3AED?style=for-the-badge&logo=rocket&logoColor=white">
-</a>
-
-<a href="mailto:hasura00@gmail.com">
-<img src="https://img.shields.io/badge/Contact-111827?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## ✦ WE BUILD WHAT'S NEXT.
-
-**Ideas are everywhere.  
-We turn them into digital experiences.**
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-
-## 💡
-
-### THINK
-
-Understand the idea.
-
-</td>
-
-<td align="center" width="25%">
-
-## 🎨
-
-### DESIGN
-
-Shape the experience.
-
-</td>
-
-<td align="center" width="25%">
-
-## 💻
-
-### BUILD
-
-Make it real.
-
-</td>
-
-<td align="center" width="25%">
-
-## 🚀
-
-### GROW
-
-Make it better.
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/WEBSITE-VISIT-000000?style=for-the-badge">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/START_A_PROJECT-0066FF?style=for-the-badge">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/CONTACT-333333?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
-# ✦ ABOUT HASURA
-
-**Hasura** is a technology and creative studio based in
-**Rajahmundry, Andhra Pradesh, India**.
-
-We combine technology, design and creativity to transform ideas
-into practical digital experiences.
-
-Our work spans across software development, applications,
-websites, UI/UX, creative media and digital solutions.
-
-<div align="center">
-
-### TECHNOLOGY × DESIGN × CREATIVITY
-
-</div>
-
-> **We don't just build products.  
-> We build experiences around ideas.**
-
----
-
-# ✦ WHAT WE DO
+## ✦ WHAT WE DO
 
 <table>
 <tr>
-
-<td align="center" width="33%">
-
-# 📱
-
-### APP DEVELOPMENT
-
-Mobile applications designed for usability,
-performance and real-world requirements.
-
-</td>
-
-<td align="center" width="33%">
-
-# 🌐
-
-### WEB DEVELOPMENT
-
-Modern websites and web applications
-built for today's digital world.
-
-</td>
-
-<td align="center" width="33%">
-
-# 💻
-
-### SOFTWARE
-
-Custom software, platforms and
-practical digital solutions.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="33%">
-
-# 🎨
-
-### UI / UX
-
-Clean interfaces, design systems,
-prototypes and visual experiences.
-
-</td>
-
-<td align="center" width="33%">
-
-# 🧩
-
-### PROJECT DEVELOPMENT
-
-From concept to working product,
-we build complete project solutions.
-
-</td>
-
-<td align="center" width="33%">
-
-# ☁️
-
-### CLOUD & DEVOPS
-
-Deployment, infrastructure,
-automation and digital environments.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="33%">
-
-# 🤖
-
-### GEN AI
-
-Exploring intelligent applications,
-automation and AI-powered experiences.
-
-</td>
-
-<td align="center" width="33%">
-
-# 🎬
-
-### MEDIA & VIDEO
-
-Reels, promotional videos,
-event media and creative content.
-
-</td>
-
-<td align="center" width="33%">
-
-# 🎵
-
-### MUSIC & AUDIO
-
-Custom songs, audio content
-and creative sound experiences.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="33%">
-
-# 🎉
-
-### EVENTS
-
-Creative technology, media,
-design and digital event solutions.
-
-</td>
-
-<td align="center" width="33%">
-
-# 🎁
-
-### CREATIVE CRAFTS
-
-Custom creative work for events,
-celebrations and special occasions.
-
-</td>
-
-<td align="center" width="33%">
-
-# 📊
-
-### DATA & ANALYTICS
-
-Technology and analytics-oriented
-solutions for digital environments.
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# ✦ TECHNOLOGY
-
-<div align="center">
-
-### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
-
-<br><br>
-
-### BACKEND
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,java" />
-
-<br><br>
-
-### DATABASE
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-
-<br><br>
-
-### CLOUD · DEVOPS · TOOLS
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
-
-<br><br>
-
-### DESIGN
-
-<img src="https://skillicons.dev/icons?i=figma" />
-
-</div>
-
----
-
-# ✦ OUR PROCESS
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center">
-
-### 01
-
-## 💡
-
-**IDEA**
-
-</td>
-
-<td>→</td>
-
-<td align="center">
-
-### 02
-
-## 🔍
-
-**DISCOVER**
-
-</td>
-
-<td>→</td>
-
-<td align="center">
-
-### 03
-
-## 🎨
-
-**DESIGN**
-
-</td>
-
-<td>→</td>
-
-<td align="center">
-
-### 04
-
-## 💻
-
-**BUILD**
-
-</td>
-
-<td>→</td>
-
-<td align="center">
-
-### 05
-
-## 🧪
-
-**TEST**
-
-</td>
-
-<td>→</td>
-
-<td align="center">
-
-### 06
-
-## 🚀
-
-**DEPLOY**
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# ✦ WHY HASURA?
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-## 🧠
-
-### THINK
-
-We understand the problem
-before choosing the solution.
-
-</td>
-
-<td align="center" width="25%">
-
-## 🎨
-
-### CREATE
-
-We combine technology
-with creativity.
-
-</td>
-
-<td align="center" width="25%">
-
-## ⚙️
-
-### BUILD
-
-We focus on practical,
-usable solutions.
-
-</td>
-
-<td align="center" width="25%">
-
-## 🚀
-
-### DELIVER
-
-We turn ideas into
-real experiences.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ✦ SELECTED WORK
-
-<div align="center">
-
-### 🚀 BUILT WITH PURPOSE.
-
-</div>
-
-<table>
-<tr>
-
 <td width="50%">
 
-### 📱 Project One
+### 💻 Development
 
-Short description of your project
-and the problem it solves.
-
-**Stack:** React · Node.js · PostgreSQL
-
-[View Project →](YOUR_PROJECT_URL)
+Modern and scalable digital solutions built with clean and reliable technology.
 
 </td>
 
 <td width="50%">
 
-### 🌐 Project Two
+### 🎨 Design
 
-Short description of your project
-and what makes it useful.
-
-**Stack:** Next.js · Python · MongoDB
-
-[View Project →](YOUR_PROJECT_URL)
+Creative interfaces and experiences designed to be beautiful, intuitive and memorable.
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%">
 
-### 🤖 Project Three
+### 🚀 Innovation
 
-AI, automation or intelligent
-application project.
-
-**Stack:** Python · AI · APIs
-
-[View Project →](YOUR_PROJECT_URL)
+Turning ideas into practical digital products and experiences.
 
 </td>
 
 <td width="50%">
 
-### 🎨 Project Four
+### ✨ Creativity
 
-Creative technology or
-design-focused project.
-
-**Stack:** Figma · React · Media
-
-[View Project →](YOUR_PROJECT_URL)
+Technology combined with imagination to create something different.
 
 </td>
-
 </tr>
-
 </table>
 
 ---
 
-# ✦ OUR VALUES
+## ✦ OUR PHILOSOPHY
 
-<div align="center">
+> **Learn. Build. Deploy.**
 
-| 💡 Innovation | 🎯 Purpose | 🎨 Creativity | 🚀 Growth |
-|:---:|:---:|:---:|:---:|
-| Think differently | Solve real problems | Make it memorable | Keep improving |
-
-</div>
+We believe great digital experiences begin with curiosity,
+grow through creativity, and become reality through technology.
 
 ---
 
-# ✦ START A PROJECT
+## ✦ TECHNOLOGIES
 
-<div align="center">
+<p align="center">
 
-### HAVE AN IDEA?
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 
-**Let's turn it into something real.**
-
-<br>
-
-<a href="mailto:hasura00@gmail.com">
-<img src="https://img.shields.io/badge/💬_Let's_Talk-7C3AED?style=for-the-badge" alt="Let's Talk">
-</a>
-
-<br><br>
-
-📍 **Rajahmundry · Andhra Pradesh · India**
-
-<br><br>
-
-### HASURA
-
-**Learn · Build · Deploy**
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+## ✦ PROJECTS
 
-<sub>
+<table>
+<tr>
+<td align="center" width="33%">
 
-© 2026 **Hasura** · Technology · Design · Creativity
+### PROJECT 01
 
-</sub>
+Digital Solutions
 
-</div>
+</td>
+
+<td align="center" width="33%">
+
+### PROJECT 02
+
+Creative Design
+
+</td>
+
+<td align="center" width="33%">
+
+### PROJECT 03
+
+Web Development
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">
+  ✦ LEARN · BUILD · DEPLOY ✦
+</h3>
+
+<p align="center">
+  <i>Building ideas into digital experiences.</i>
+</p>
